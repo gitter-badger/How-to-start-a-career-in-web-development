@@ -7,3 +7,4 @@ So I'd say one important thing is to choose your path: front end developer or ba
 
 - Learn by reading and watching tutorials, practicing code, work on personal projects, teach people what you've just learnt.
 - Meet people
+- We can add a listing of great tutorial websites to learn from (only the best ones)
