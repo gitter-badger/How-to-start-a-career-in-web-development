@@ -28,3 +28,6 @@ You are passionate about the web, you want to work on making websites but there 
 - Improve your communication skills
 - Get prepared for the job interview questions (depending on the job you choose)
 - Learn from failures and get ready for the next one
+
+## A bit of self development can help
+- What is your limiting belief? Work on it!
