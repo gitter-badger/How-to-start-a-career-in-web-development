@@ -26,4 +26,4 @@ You are passionate about the web, you want to work on making websites but there 
 - Learn how to read job offers
 - Improve your communication skills
 - Get prepared for the job interview questions (depending on the job you choose)
-- Learn from failures
+- Learn from failures and get ready for the next one
