@@ -7,6 +7,8 @@ You are passionate about the web, you want to work on making websites but there 
 - Back end developer
 
 ## Learn
+- Where to learn online (online tutorials or mentoring sessions with a teacher on Skype)
+- What school to choose? (in Dublin and Cork)
 - Read and watch tutorial
 - List of tutorials
 - List of softwares and tools
