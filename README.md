@@ -3,6 +3,7 @@
 You are passionate about the web, you want to work on making websites but there are tons of things to learn and to do and you don't know what to start with? Let us help you a little bit and give you a shortcut!
 
 ## Find your path
+What exactly do you want to do? Don't dive into learning if you don't know exactly what you need to learn. Watch videos of people who work in this industry and show a bit about their work (like this one: http://youtu.be/i5qpS_D8Law)
 - Front end developer
 - Back end developer
 
