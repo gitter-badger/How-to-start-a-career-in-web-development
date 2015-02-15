@@ -19,10 +19,11 @@ You are passionate about the web, you want to work on making websites but there 
 - Twitter, Facebook, Linkedin, Youtube
 - Have a portfolio
 
-## Meet people
+## Meet people, grow your network
 - Meetup, Facebook, Conferences, Seminars
 
 ## Prepare for the job
+- Where to find the most relevant job offers
 - Learn how to read job offers
 - Improve your communication skills
 - Get prepared for the job interview questions (depending on the job you choose)
