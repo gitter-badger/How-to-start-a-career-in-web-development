@@ -22,6 +22,7 @@ What exactly do you want to do? Don't dive into learning if you don't know exact
 
 ## Meet people, grow your network
 - Meetup, Facebook, Conferences, Seminars
+- Have a business card (you can order in Vistaprint)
 
 ## Prepare for the job
 - Where to find the most relevant job offers
