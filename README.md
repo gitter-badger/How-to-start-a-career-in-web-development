@@ -17,6 +17,7 @@ What exactly do you want to do? Don't dive into learning if you don't know exact
 - Teach people as soon as you learnt something so that it will help to validate your knowledge
 - Save money to invest in your learning (You can read "Rich Dad, Poor dad" from Robert Kyosaki)
 - Save your time to invest it in your learning
+- Don't be afraid to tell people you don't know this or that. They will be happy to help you.
 
 ## Show yourself / Be visible
 - Twitter, Facebook, Linkedin, Youtube
