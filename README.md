@@ -1,5 +1,7 @@
 # How to start a career in web development
 
+[![Join the chat at https://gitter.im/wddi/How-to-start-a-career-in-web-development](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wddi/How-to-start-a-career-in-web-development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 You are passionate about the web, you want to work on making websites but there are tons of things to learn and to do and you don't know what to start with? Let us help you a little bit and give you a shortcut!
 
 ## Find your path
