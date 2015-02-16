@@ -15,12 +15,14 @@ What exactly do you want to do? Don't dive into learning if you don't know exact
 - List of softwares and tools
 - Just learn what you need (the rest will come)
 - Teach people as soon as you learnt something so that it will help to validate your knowledge
+- Save money to invest in your learning (You can read "Rich Dad, Poor dad" from Robert Kyosaki)
 
-## Show yourself
+## Show yourself / Be visible
 - Twitter, Facebook, Linkedin, Youtube
 - Have a portfolio
 
 ## Meet people, grow your network
+- Become a good communicator (I suggest to read "How to make friends" from Dale Carnegie)
 - Meetup, Facebook, Conferences, Seminars
 - Have a business card (you can order in Vistaprint)
 
@@ -32,4 +34,5 @@ What exactly do you want to do? Don't dive into learning if you don't know exact
 - Learn from failures and get ready for the next one
 
 ## A bit of self development can help
-- What is your limiting belief? Work on it!
+Most web entrepreneurs learn self development, why not you!
+- Work on limiting beliefs!
